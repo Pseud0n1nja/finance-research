@@ -6,5 +6,5 @@ investment management. I am specifically attempting to replicate a model present
 Sornette which seeks to anticipate big changes or predict crises in the financial market.
 He gave a presentation describing his work in a [2013 TED talk](http://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis#t-0).
 
-references:
-Didier Sornette: [A Nonlinear Super-Exponential Rational Model of Speculative Financial Bubbles](http://arxiv.org/pdf/cond-mat/0104341v2.pdf)
+references:  
+Didier Sornette: [A Nonlinear Super-Exponential Rational Model of Speculative Financial Bubbles](http://arxiv.org/pdf/cond-mat/0104341v2.pdf)  
